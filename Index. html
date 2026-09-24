@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Terraria</title>
+
+    <style>
+        body {
+            background-color: #202820;
+            color: white;
+            font-family: Arial;
+            text-align: center;
+        }
+
+        h1 {
+            color: #75d64b;
+            font-size: 40px;
+        }
+
+        h2 {
+            color: #8be36a;
+        }
+
+        p {
+            font-size: 18px;
+        }
+
+        div {
+            background-color: #303b30;
+            padding: 15px;
+            margin: 20px;
+            border-radius: 10px;
+        }
+
+        li {
+            margin: 8px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>🌳 Terraria 🌳</h1>
+
+    <p>Um jogo de aventura, exploração e construção.</p>
+
+    <div>
+        <h2>Sobre Terraria</h2>
+
+        <p>
+            Terraria é um jogo de aventura, exploração e sobrevivência em um mundo 2D. O jogador pode explorar diferentes lugares, coletar recursos, construir casas, criar equipamentos e enfrentar vários inimigos e chefes. O jogo permite bastante liberdade, já que cada jogador pode seguir seu próprio caminho, seja construindo, explorando ou lutando.
+        </p>
+    </div>
+
+    <div>
+        <h2>O que podemos fazer?</h2>
+
+        <ul>
+            <li>🌎 Explorar o mundo</li>
+            <li>⛏️ Minerar recursos</li>
+            <li>⚔️ Lutar contra inimigos</li>
+            <li>👹 Enfrentar Diversos Bosses</li>
+            <li>🛠️ Criar armas e ferramentas</li>
+            <li>🐾 Encontrar animais e criaturas</li>
+            <li>💰 Encontrar tesouros</li>
+            <li>👥 Ajudar e interagir com NPCs</li>
+            <li>🌳 Coletar materiais e itens</li>
+            <li>🧪 Criar poções</li>
+            <li>🎣 Pescar </li>
+        </ul>
+    </div>
+
+    <div>
+        <h2>Biomas</h2>
+
+        <p>🌳 Floresta: Bioma comum, com árvores, animais e inimigos básicos.</p>
+        <p>🏜️ Deserto: Região com muita areia, cactos e inimigos próprios.</p>
+        <p>❄️ Neve: Bioma gelado com neve, gelo e criaturas congelantes.</p>
+        <p>🌊 Oceano: Fica nas extremidades do mundo e possui água, peixes e inimigos.</p>
+        <p>🌴 Selva: Região cheia de árvores e plantas, com inimigos mais perigosos.</p>
+        <p>🕳️ Subterrâneo: Área abaixo da superfície, cheia de minérios, cavernas e tesouros.</p>
+        <p>🏰 Dungeon: Grande construção cheia de inimigos, armadilhas e itens raros.</p>
+        <p>☠️ Corrupção: Bioma sombrio com criaturas perigosas e uma atmosfera assustadora.</p>
+        <p>🩸 Carmesim: Parecido com a Corrupção, mas com aparência avermelhada e inimigos próprios.</p>
+        <p>🍄 Cogumelos Brilhantes: Região subterrânea iluminada por cogumelos azuis.</p>
+        <p>🌋 Submundo: Local mais profundo do mundo, cheio de lava, inimigos fortes e desafios.</p>
+    </div>
+
+    <div>
+        <h2>Bosses</h2>
+
+        <p>👁️ Olho de Cthulhu: Um dos primeiros chefes, geralmente enfrentado no começo da aventura.</p>
+        <p>🧠 Cérebro de Cthulhu: Chefe da Corrupção Carmesim, enfrentado em mundos com esse bioma.</p>
+        <p>🐛 Devorador de Mundos: Chefe da Corrupção, formado por várias partes conectadas.</p>
+        <p>👑 Rei Slime: Um chefe opcional que pode aparecer em diferentes momentos.</p>
+        <p>🐝 Abelha-Rainha: Encontrada na Selva Subterrânea, dentro das colmeias.</p>
+        <p>💀 Esqueletron: Guarda a entrada da Dungeon e precisa ser derrotado para explorá-la normalmente.</p>
+        <p>🧱 Parede de Carne: Encontrada no Submundo. Ao derrotá-la, o mundo entra no Hardmode.</p>
+        <p>⚙️ Os Três Chefes Mecânicos: Destruidor, Esqueletron Prime e Gêmeos. São alguns dos principais desafios do Hardmode.</p>
+        <p>🌿 Plantera: Surge na Selva depois que os três chefes mecânicos são derrotados.</p>
+        <p>🏛️ Golem: Encontrado no Templo da Selva e enfrentado depois de Plantera.</p>
+        <p>🌙 Cultista Lunático: Derrotado na Dungeon após o Golem, iniciando os eventos finais.</p>
+        <p>🌌 Pilares Lunares: Quatro grandes inimigos/eventos que aparecem pelo mundo.</p> 
+        <p>🌕 Senhor da Lua: Principal chefe de Terraria e o último grande desafio da progressã.</p>
+    </div>
+
+    <div>
+        <h2>Minha opinião</h2>
+
+        <p>
+            Terraria é, sem dúvida, um dos jogos que mais me marcou. Com mais de 500 horas de jogo, posso dizer que ele consegue entregar uma experiência absurda de exploração, construção, aventura e combate. Cada mundo parece ter algo novo para descobrir, e mesmo depois de tantas horas ainda existem coisas que conseguem surpreender. A liberdade que o jogo oferece é incrível: você pode construir, explorar, enfrentar chefes, procurar itens raros ou simplesmente passar horas fazendo qualquer coisa que quiser. Para mim, Terraria não é apenas um jogo que você termina; é um jogo para o qual você sempre pode voltar e criar uma nova história.
+        </p>
+    </div>
+
+</body>
+
+</html>
